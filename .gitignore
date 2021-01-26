@@ -1,0 +1,5 @@
+*.user*
+*.gradle*
+*.idea*
+!.idea/vcx.xml
+build/

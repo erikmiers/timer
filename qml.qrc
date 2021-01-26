@@ -1,5 +1,13 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>plus.svg</file>
+        <file>delete.svg</file>
+        <file>volume.svg</file>
+        <file>loop.svg</file>
+        <file>bing.wav</file>
+        <file>bing-bong.wav</file>
+        <file>horn.wav</file>
+        <file>tap.wav</file>
     </qresource>
 </RCC>
