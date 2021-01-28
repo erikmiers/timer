@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="Timer_en_US">
+<TS version="2.1" language="de" sourcelanguage="en">
 <context>
     <name>main</name>
     <message>
@@ -16,12 +16,12 @@
     <message>
         <location filename="main.qml" line="205"/>
         <source>Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sekunden</translation>
     </message>
     <message>
         <location filename="main.qml" line="216"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ohne</translation>
     </message>
     <message>
         <location filename="main.qml" line="216"/>
