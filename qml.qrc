@@ -9,5 +9,7 @@
         <file>bing-bong.wav</file>
         <file>horn.wav</file>
         <file>tap.wav</file>
+        <file>fullscreen.svg</file>
+        <file>fullscreen_exit.svg</file>
     </qresource>
 </RCC>
